@@ -3,7 +3,7 @@
 
 ---
 
-<a href="url"><img src="./img/logo.jpg" align="left" height="300"></a>
+<a href="url"><img src="./img/logo.png" align="left" height="300"></a>
 
 ## ABM-DispositivosInteligentesSRL
 
