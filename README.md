@@ -19,7 +19,7 @@ Damos la bienvenida a todos los colaboradores 💙
 
 - **Del Sacramento, Patricio**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/patriciodelsacramento).
 
-- **Cortabarria, Joaquin**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
+- **Cortabarría, Joaquín**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
 
 - **Ferreyra Gastón**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/gastonloco).
 
