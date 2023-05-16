@@ -25,4 +25,6 @@ Damos la bienvenida a todos los colaboradores 💙
 
 - **Ferreyra Gastón**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/gastonloco).
 
+- **Pierola Alan**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/alancodigo).
+
 --- 
