@@ -10,14 +10,16 @@
 
 ### Proyecto Integrador - Modulo Programador
 
+## Documento introductorio al equipo
+
+- [Presentación del grupo](Presentacion_del_grupo.pdf)
+
 --- 
 ## Contribuyendo
 
 Damos la bienvenida a todos los colaboradores 💙
 
 - **Aliendro, Javier**. Estudiante de Telecomunicacionesb [Ver Github](https://github.com/CACHITO-13).
-
-- **Del Sacramento, Patricio**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/patriciodelsacramento).
 
 - **Cortabarría, Joaquín**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
 
