@@ -23,9 +23,6 @@ Damos la bienvenida a todos los colaboradores 💙
 
 - **Cortabarría, Joaquín**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/joacorta).
 
-- **Ferreyra Gastón**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/gastonloco).
-
-- **Pierola Alan**. Estudiante de Telecomunicaciones [Ver Github](https://github.com/alancodigo).
 
 --- 
 ## Proyecto Integrador
