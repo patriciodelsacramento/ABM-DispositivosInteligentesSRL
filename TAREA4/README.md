@@ -3,4 +3,5 @@
 
 ### Archivos contenidos:
 
-* tarea4BD 
+* tarea4BD.py
+* DB-proyectoIntegradorv01-T4.sql
