@@ -3,5 +3,6 @@
 
 ### Archivos contenidos:
 
-* tarea4BD.py
-* DB-proyectoIntegradorv01-T4.sql
+* conexion.py
+* principal.py
+* DB-proyectoIntegradorv01.sql
