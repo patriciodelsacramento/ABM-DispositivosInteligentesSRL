@@ -13,8 +13,14 @@ for nombre_dispositivo in dispositivos_tv:
 print("Fin tabla dispositivosTV")
 
 # Ingresa datos de dispositivos a la tabla
-conexion_bd.ingresar_dispositivos_tv(0,"aparato2", "Inch", 555, 8, "baja", "AC", "ninguna", 1)
+conexion_bd.ingresar_dispositivos_tv(0,"aparato3", "Inch", 757, 3, "media", "AC", "ninguna", 1)
 print("Datos ingresados a dispositivostv")
+
+# Modificar el precio de un dispositivo de TV
+conexion_bd.modificar_dispositivos_tv(1, 999)
+
+# Eliminar un dispositivo de TV
+conexion_bd.eliminar_dispositivos_tv(2)
 
 # Desconectar de la base de datos
 conexion_bd.disconnect()
